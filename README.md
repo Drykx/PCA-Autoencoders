@@ -13,4 +13,4 @@ We were asked to pick and a do a small project in a given list. We choosed to do
  the auto-encoder and of PCA on a denoising task.
 
 ### Github organization
-Since we were not using Github for the project I have been unable to retrieve the code, which is why there is only the [report](Report.pdf) and the [presentiation](Presentation.pdf).  
+Since we were not using Github for the project I have been unable to retrieve the code, which is why there is only the [Report](Report.pdf) and the [Presentation](Presentation.pdf).  
